@@ -1,0 +1,14 @@
+Object Oriented Programming
+
+atribut/property -> variable
+method  -> fungsi
+
+4 pilar utama OOP
+- Encapsulation
+- Abstractions
+- Inheritance
+- Polymorphism
+
+object -> instance/perwujudan dari sebuah class
+
+Secara default, semua atribut yang didefinisikan adalah public.
