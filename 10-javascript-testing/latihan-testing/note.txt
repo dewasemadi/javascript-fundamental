@@ -1,0 +1,4 @@
+npm run test -- --coverage
+
+cheatsheet jest
+https://devhints.io/jest
