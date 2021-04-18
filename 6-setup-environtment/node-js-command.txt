@@ -1,0 +1,5 @@
+npm init            --> membuat package.json
+
+node [filename].js  --> menjalankan file javascript
+
+npm run start       --> menjalankan script pada package.json
